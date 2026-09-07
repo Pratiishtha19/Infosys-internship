@@ -153,4 +153,3 @@ I learned how to use a pre-trained YOLOv8 model for object detection and integra
 ## 👤 Author
 
 **Pratishtha Gadwanshi**
-Technocrats Institute of Technology
